@@ -1,5 +1,17 @@
 ## Hi there 👋
 
+![Header](./your-header-image-name.png)
+
+I'm Elena Meyer, and I'm a PhD candidate at Virginia Commonwealth University. 
+
+
+- 🌱 My research is in plant evolutionary geneticss, especially focused on reproductive processes in plants. 
+- ⚡I'll be using this page to host code and datasets assosiated with my current research projects.
+  - [My work on angiosperm mating systems](https://evoelena.com/project/example/)
+  - [My personal website](evoelena.com)
+-
+
+
 <!--
 **elenacicada/elenacicada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
