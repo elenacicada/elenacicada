@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Header](./github-header-image.png)
+![Header](./github-header-image-2.png)
 
 I'm Elena Meyer, and I'm a PhD candidate at Virginia Commonwealth University. 
 
