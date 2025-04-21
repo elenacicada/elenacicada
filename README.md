@@ -9,7 +9,7 @@ I'm Elena Meyer, and I'm a PhD candidate at Virginia Commonwealth University.
 - ⚡I'll be using this page to host code and datasets assosiated with my current research projects.
   - [My work on angiosperm mating systems](https://evoelena.com/project/example/)
   - [My personal website](evoelena.com)
--
+- 📫 You can reach me by emailing [meyere3@vcu.edu](mailto:meyere3@vcu.edu)
 
 
 <!--
