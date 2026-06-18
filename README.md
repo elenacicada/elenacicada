@@ -5,9 +5,10 @@
 I'm Elena Meyer, and I'm a PhD candidate at Virginia Commonwealth University. 
 
 
-- 🌱 My research is in plant evolutionary geneticss, especially focused on reproductive processes in plants. 
+- 🌱 My research is in plant evolutionary geneticss, and is especially focused on reproductive processes in plants. 
 - ⚡I'll be using this page to host code and datasets assosiated with my current research projects.
-  - [My work on angiosperm mating systems](https://evoelena.com/project/example/)
+  - [My work on bias in angiosperm mating system studies](https://evoelena.com/project/interesting_plants/)
+  - [My work on how reproductive traits impact speciation](https://evoelena.com/project/diversification_reproduction)
   - [My personal website](evoelena.com)
 - 📫 You can reach me by emailing [meyere3@vcu.edu](mailto:meyere3@vcu.edu)
 
